@@ -1,0 +1,15 @@
+@import "smart-grid";
+@import "fonts";
+@import "variables";
+@import "header";
+@import "content";
+@import "footer";
+
+.reset
+/*.degubGrid{
+    .debug(rgba(0, 0, 0, 0.4), 1px solid #ff0);
+}*/
+*{
+  box-sizing: border-box;
+}
+
